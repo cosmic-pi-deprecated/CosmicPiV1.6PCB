@@ -2344,7 +2344,7 @@ STRIGOUT_A
 Text GLabel 1900 4700 0    50   Input ~ 0
 STRIGOUT_B
 Text GLabel 1900 4900 0    50   Input ~ 0
-BARO_INT3
+BARO_INT
 Text GLabel 3700 2400 2    50   Output ~ 0
 LED1
 Text GLabel 3700 2500 2    46   Output ~ 0
