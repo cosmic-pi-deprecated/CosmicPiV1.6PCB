@@ -34,7 +34,7 @@
   )
 
   (setup
-    (last_trace_width 0.8)
+    (last_trace_width 0.25)
     (user_trace_width 0.2)
     (user_trace_width 0.25)
     (user_trace_width 0.3)
@@ -9231,8 +9231,8 @@
 
   (gr_line (start 144.5 187.5) (end 130 202) (layer Edge.Cuts) (width 0.15) (tstamp 5CAC74ED))
   (gr_line (start 144.5 32.5) (end 130 18) (layer Edge.Cuts) (width 0.15))
-  (gr_circle (center 88 95.25) (end 88.25 95.5) (layer Dwgs.User) (width 0.15))
-  (gr_circle (center 87 64.75) (end 87.25 65) (layer Dwgs.User) (width 0.15))
+  (gr_circle (center 88 95.25) (end 88.353553 95.25) (layer F.SilkS) (width 0.15))
+  (gr_circle (center 87 64.75) (end 87.353553 64.75) (layer F.SilkS) (width 0.15))
   (gr_text "This side up!" (at 122.5 25) (layer F.SilkS)
     (effects (font (size 2 2) (thickness 0.3)))
   )
